@@ -1,4 +1,4 @@
-**Note: Ron graduated from Stanford and is not currently maintaining this project. So it's currently frozen in its mid-2007 state. He'd love to help transfer this project to a new project lead, or advise someone in designing/implementing a PaperToolkit 2.0 from scratch. If you are interested, please email him.**
+**Note: Ron graduated from Stanford and is not currently maintaining this project. So it's currently frozen in its mid-2007 state.** 
 
 # Description
 This is a toolkit for building applications that integrate pen, paper, and computers. The toolkit leverages Anoto pen technology to provide a next-generation design environment for pen-and-paper interactions.
